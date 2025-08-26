@@ -1,2 +1,2 @@
-# informatexx
+# tecnoformatexx
 formateos a domicilio
